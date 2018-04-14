@@ -362,50 +362,90 @@ color: #FFFFFF;
 
 .menu-421 a,
 .menu-421 a:visited{
-background: url("../../img/about.png") no-repeat scroll 20% 60% rgba(0, 0, 0, 0);
+background: url("../../img/information.png") no-repeat scroll 20% 45% rgba(0, 0, 0, 0);
 width: 180px;
+  height: 70px;
     padding-top: 10px;
  text-align: center;
+}
+.menu-421,
+.menu-421 a:hover{
+  background: url("../../img/information-c.png") no-repeat scroll 20% 45% rgba(0, 0, 0, 0);
+  width: 181px;
+  height: 70px;
+  text-align: center;
 }
 
 .menu-218 a,
 .menu-218 a:visited{
-background: url("../../img/home.png") no-repeat scroll 20% 60% rgba(0, 0, 0, 0);
+background: url("../../img/web-page-home.png") no-repeat scroll 20% 45% rgba(0, 0, 0, 0);
 width: 180px;
+  height: 70px;
     padding-top: 10px;
  text-align: center;
+}
+.menu-218,
+.menu-218 a:hover{
+  background: url("../../img/web-page-home-c.png") no-repeat scroll 20% 45% rgba(0, 0, 0, 0);
+  width: 181px;
+  height: 70px;
+  text-align: center;
 }
 
 .menu-1223 a,
 .menu-1223 a:visited{
- background: url("../../img/stat.png") no-repeat scroll 12% 60% rgba(0, 0, 0, 0);
+ background: url("../../img/notes.png") no-repeat scroll 12% 45% rgba(0, 0, 0, 0);
     width : 185px;
-    padding-top: 10px;
+  height: 70px;
+  padding-top: 10px;
  text-align: center;
+}
+.menu-1223,
+.menu-1223 a:hover{
+  background: url("../../img/notes-c.png") no-repeat scroll 12% 45% rgba(0, 0, 0, 0);
+  width : 185px;
+  height: 70px;
+  text-align: center;
 }
 
 .menu-893 a,
 .menu-893 a:visited {
-    background: url("../../img/call.png") no-repeat scroll 18% 60% rgba(0, 0, 0, 0);
+    background: url("../../img/phone-receiver.png") no-repeat scroll 18% 45% rgba(0, 0, 0, 0);
     width: 180px;
+  height: 70px;
     padding-top: 10px;
     text-align: center;
+}
+.menu-893,
+.menu-893 a:hover {
+  background: url("../../img/phone-receiver-c.png") no-repeat scroll 18% 45% rgba(0, 0, 0, 0);
+  width: 181px;
+  height: 70px;
+  text-align: center;
 }
 
 .menu-3594 a,
 .menu-3594 a:visited{
-	background: url("../../img/cont.png") no-repeat scroll 20% 60% rgba(0, 0, 0, 0);
+	background: url("../../img/check-list.png") no-repeat scroll 20% 45% rgba(0, 0, 0, 0);
 	width: 180px;
+  height: 70px;
     padding-top: 10px;
 	text-align: center;
 }
+.menu-3594,
+.menu-3594 a:hover{
+  background: url("../../img/check-list-c.png") no-repeat scroll 20% 45% rgba(0, 0, 0, 0);
+  width: 181px;
+  height: 70px;
+  text-align: center;
+}
 #menu-443-1 a.sf-depth-1{
- background: url("../../img/skf.png") no-repeat scroll 7% 50% rgba(0, 0, 0, 0);
+ background: url("../../img/closet.png") no-repeat scroll 7% 50% rgba(0, 0, 0, 0);
  padding-left: 60px;
     line-height: 40px;
 }
 #menu-443-1 a.sf-depth-1:hover{
- background: url("../../img/skf.png") no-repeat scroll 7% 50% #fef200;
+ background: url("../../img/closet-с.png") no-repeat scroll 7% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
@@ -414,7 +454,7 @@ width: 180px;
  padding-left: 60px;
 }
 #menu-451-1 a.sf-depth-1:hover{
- background: url("../../img/partition.png") no-repeat scroll 8% 50% #fef200;
+ background: url("../../img/partition-с.png") no-repeat scroll 8% 50% #fef200;
  padding-left: 60px;
 }
 #menu-453-1 a.sf-depth-1{
@@ -423,27 +463,27 @@ width: 180px;
     line-height: 40px;
 }
 #menu-453-1 a.sf-depth-1:hover{
- background: url("../../img/kitchen.png") no-repeat scroll 7% 50% #fef200;
+ background: url("../../img/kitchen-c.png") no-repeat scroll 7% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
 #menu-477-1 a.sf-depth-1{
- background: url("../../img/kom.png") no-repeat scroll 7% 50% rgba(0, 0, 0, 0);
+ background: url("../../img/stand.png") no-repeat scroll 7% 50% rgba(0, 0, 0, 0);
  padding-left: 60px;
     line-height: 40px;
 }
 #menu-477-1 a.sf-depth-1:hover{
- background: url("../../img/kom.png") no-repeat scroll 7% 50% #fef200;
+ background: url("../../img/stand-c.png") no-repeat scroll 7% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
 #menu-463-1 a.sf-depth-1{
- background: url("../../img/det.png") no-repeat scroll 7% 50% rgba(0, 0, 0, 0);
+ background: url("../../img/bunk-bed.png") no-repeat scroll 7% 50% rgba(0, 0, 0, 0);
  padding-left: 60px;
     line-height: 40px;
 }
 #menu-463-1 a.sf-depth-1:hover{
- background: url("../../img/det.png") no-repeat scroll 7% 50% #fef200;
+ background: url("../../img/bunk-bed-c.png") no-repeat scroll 7% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
@@ -453,7 +493,7 @@ width: 180px;
     line-height: 40px;
 }
 #menu-469-1 a.sf-depth-1:hover{
- background: url("../../img/shirts.png") no-repeat scroll 7% 50% #fef200;
+ background: url("../../img/shirts-c.png") no-repeat scroll 7% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
@@ -463,7 +503,7 @@ width: 180px;
     line-height: 40px;
 }
 #menu-480-1 a.sf-depth-1:hover{
- background: url("../../img/rack.png") no-repeat scroll 7% 50% #fef200;
+ background: url("../../img/rack-c.png") no-repeat scroll 7% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
@@ -473,7 +513,7 @@ width: 180px;
     line-height: 40px;
 }
 #menu-481-1 a.sf-depth-1:hover{
- background: url("../../img/advertising.png") no-repeat scroll 7% 50% #fef200;
+ background: url("../../img/advertising-с.png") no-repeat scroll 7% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
@@ -493,7 +533,7 @@ width: 180px;
     line-height: 40px;
 }
 #menu-4392-1 a.sf-depth-1:hover{
- background: url("../../img/room.png") no-repeat scroll 8% 50% #fef200;
+ background: url("../../img/room-c.png") no-repeat scroll 8% 50% #fef200;
  padding-left: 60px;
     line-height: 40px;
 }
@@ -1157,7 +1197,7 @@ padding: 10px 35px 6px;
 /*background: none repeat scroll 0 0 #5B82AB;*/
  border: none;
  color: #FFFFFF;
- height: 60px;
+ height: 70px;
 }
 .sf-depth-1{
 background: none repeat scroll 0 0 #5B82AB;
@@ -1200,7 +1240,7 @@ float: left;
  color: #FFFFFF;
 }
 .sf-menu.sf-style-white li, .sf-menu.sf-style-white.sf-navbar{
-  width: 249px;
+  width: 250px;
   background: none repeat scroll 0 0 #8a0bd6;
   border-bottom: 1px solid #8a0bd6;
 }
@@ -1443,6 +1483,7 @@ color: #98A259;
 }
 .ok{
   height: 32px;
+  width: 200px;
 }
 .tm{
   height: 31px;
@@ -1654,15 +1695,15 @@ display:none;}
 .ct{
   background: none repeat scroll 0 0 #9C62B4;
   color: #FFFFFF;
-  height: 55px;
+  height: 70px;
   padding-top: 15px;
   text-align: center;
   width: 250px;
 }
 .ct:hover{
  background: none repeat scroll 0 0 #fef200;
-  color: #FFFFFF;
-  height: 55px;
+  color: #8a0bd6;
+  height: 70px;
   padding-top: 15px;
   text-align: center;
   width: 250px;
