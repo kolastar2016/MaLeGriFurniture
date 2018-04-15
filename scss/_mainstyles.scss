@@ -1245,14 +1245,15 @@ float: left;
   border-bottom: 1px solid #8a0bd6;
 }
 .sf-menu.sf-style-light-blue li li{
-  background: none repeat scroll 0 0 #D1E8FF;
+  background: none repeat scroll 0 0 #f9f9f9;
 }
 .sf-depth-2 {
-	background: none repeat scroll 0 0 #fef200;
+	background: none repeat scroll 0 0 #8a0bd6;
 	float: left;
-	border: 1px solid #8a0bd6;
+	border: 1px solid #f9f9f9;
+  /*
 	min-width: 200px;
-	min-height: 41px;
+	min-height: 41px;*/
 }
 .img-div-top{
   height: 240px;
@@ -1692,6 +1693,13 @@ float: left;
 .punkt {position:relative; cursor:pointer;  float: left;  width: 250px; }
 div.list_punkts {position:absolute;
 display:none;}
+
+.punkt_two {
+  position:relative;
+  cursor:pointer;
+  float: left;
+  width: 180px;
+}
 .ct{
   background: none repeat scroll 0 0 #9C62B4;
   color: #FFFFFF;
