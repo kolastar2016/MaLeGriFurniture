@@ -1690,9 +1690,21 @@ float: left;
  font-size: 15px;
  font-weight: bold;
 }
-.punkt {position:relative; cursor:pointer;  float: left;  width: 250px; }
-div.list_punkts {position:absolute;
-display:none;}
+.punkt {
+  position:relative;
+  cursor:pointer;
+  float: left;
+  width: 250px;
+}
+
+div.list_punkts {
+  position:absolute;
+  display:none;
+}
+
+div.list_punkts_two {
+  position:relative;
+}
 
 .punkt_two {
   position:relative;
