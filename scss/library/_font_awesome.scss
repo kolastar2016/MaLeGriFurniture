@@ -161,8 +161,8 @@ a [class*=" icon-"] {
 [class^="icon-"],
 [class*=" icon-"] {
   display: inline;
-  width: auto;
-  height: auto;
+  /*width: auto;
+  height: auto;*/
   line-height: normal;
   vertical-align: baseline;
   background-image: none;
