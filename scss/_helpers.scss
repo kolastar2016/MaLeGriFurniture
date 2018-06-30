@@ -1,64 +1,14 @@
 
-
  li {
    list-style-type: none; /* Убираем маркеры */
  }
- /*
- .nav-second-menu ul {
-   background: #ddd;
-   font-size: 0;
-   list-style: none;
-   margin: 0;
-   padding: 0;
-   text-align: center;
-   width: 100%;
- }*/
- /*
- .nav-second-menu li {
-   display: inline-block;
-   margin: 0;
-   padding: 0;
-   position: relative;
-   min-width: 33%;
- }*/
- /*
- .nav-second-menu a {
-   background: #ddd;
-   color: #444;
-   display: block;
-   font: bold 16px/50px sans-serif;
-   padding: 0 25px;
-   text-align: center;
-   text-decoration: none;
-   -webkit-transition: all .25s ease;
-   -moz-transition: all .25s ease;
-   -ms-transition: all .25s ease;
-   -o-transition: all .25s ease;
-   transition: all .25s ease;
- }*/
-/*
- .nav-second-menu .dropdown:after {
-   content: ' \25bc';
- }*/
- /*
- .nav-second-menu li:hover a {
-   background: #ccc;
- }*/
 
  .nav-second-menu li ul {
-   //left: 0;
-   //opacity: 0;
-   //position: absolute;
-   //top: 35px;
+
    background: none;
    visibility: hidden;
-   //z-index: 1;
-   //-webkit-transition: all .25s ease;
-   //-moz-transition: all .25s ease;
-   //-ms-transition: all .25s ease;
-   //-o-transition: all .25s ease;
-   //transition: all .25s ease;
  }
+
  .nav-second-menu li:hover ul {
    opacity: 1;
    top: 70px;
@@ -73,8 +23,3 @@
  .nav-second-menu li ul li a:hover {
    background: none repeat scroll;
  }
- /*
- .nav-second-menu li ul a:hover {
-   background: #bbb;
- }
-*/
