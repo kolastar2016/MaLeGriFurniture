@@ -2863,3 +2863,55 @@ text-align: center;
     margin-top: 80px;
     padding-left: 10px;
 }
+
+.lessonTen{
+  margin-top: 20px;
+  background-color: #D3D3D3;
+}
+
+#email{
+  margin-top: 20px;
+  color: blue;
+  width: 20%;
+  height: 35px;
+}
+
+#tel{
+  margin-top: 20px;
+  color: blue;
+  width: 20%;
+  height: 35px;
+}
+
+#dat{
+  margin-top: 20px;
+  color: blue;
+  width: 40%;
+  height: 200px;
+}
+
+#nameuser{
+  margin-top: 20px;
+  color: blue;
+  width: 20%;
+  height: 35px;
+}
+
+/*
+ Markup free clearing.
+ */
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+/* IE6 */
+* html .clearfix {
+  height: 1%;
+}
+/* IE7 */
+*:first-child + html .clearfix {
+  min-height: 1%;
+}

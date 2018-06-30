@@ -83,8 +83,12 @@ tr.even .form-item {
   font-size: 0.85em;
 }
 label {
-  display: block;
+  color: red;
+  //display: block;
   font-weight: bold;
+  float: right;
+  display: contents;
+  left: 20px;
 }
 label.option {
   display: inline;

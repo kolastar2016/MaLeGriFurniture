@@ -12,23 +12,7 @@ ul.menu {
   list-style: none;
   text-align: left; /* LTR */
 }
-/*
-ul.menu li {
-  margin: 0 0 0 0.4em; /* LTR */
-/*}*/
-/*
-ul li.expanded {
-  list-style-image: url(../../img/menu-expanded.png);
-  list-style-type: circle;
-}
-ul li.collapsed {
-  list-style-image: url(../../img/menu-collapsed.png); /* LTR *//*
-  list-style-type: disc;
-}
-ul li.leaf {
-  list-style-image: url(../../img/menu-leaf.png);
-  list-style-type: square;
-}*/
+
 li.expanded,
 li.collapsed,
 li.leaf {
