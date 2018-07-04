@@ -2864,6 +2864,21 @@ text-align: center;
     padding-left: 10px;
 }
 
+.btn_order {
+  background: white;
+  color: #8a0bd6;
+  border: 2px solid #8a0bd6;
+  height: 50px;
+  width: 150px;
+  cursor: pointer;
+
+  &:hover {
+    color: white;
+    background: #8a0bd6;
+    border: 1px solid #8a0bd6;
+  }
+}
+
 .lessonTen{
   margin-top: 20px;
   background-color: #D3D3D3;
